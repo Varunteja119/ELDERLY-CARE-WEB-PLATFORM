@@ -4,7 +4,7 @@ Elderly individuals living in old age homes often experience loneliness and soci
 The platform includes video calling, health monitoring, medication reminders, interactive entertainment, and AI companionship, ensuring that seniors can maintain social interactions and receive essential care. The interface is designed with large fonts, simple navigation, and voice-assisted features, making it accessible for elderly users with minimal technical knowledge.
 By integrating technology into elderly care, Elderly Connect enhances the quality of life for senior citizens, providing them with companionship, security, and a sense of belonging in an increasingly digital world.
 
-1. Functional Requirements:
+## Functional Requirements:
 
 User Authentication – Secure login system for residents, caregivers, and family members.
 
@@ -20,7 +20,7 @@ AI Chatbot Assistance – Virtual assistant for companionship and answering basi
 
 Entertainment Module – Access to music, books, games, and religious content for engagement.
 
-2. Non-Functional Requirements:
+## Non-Functional Requirements:
 
 Ease of Use – Simple and intuitive interface with large fonts and voice assistance.
 
@@ -32,13 +32,13 @@ Cross-Platform Compatibility – Works on mobile, tablet, and desktop devices.
 
 Performance Efficiency – Quick response times for seamless user experience.
 
-3. Constraints:
+## Constraints:
 
 Internet connectivity is required for real-time communication features.
 
 Smart devices (like wearables) are needed for advanced health tracking.
 
-Core Features:
+## Core Features:
 
 Caregiver hiring
 
@@ -48,7 +48,7 @@ Digital grandparenting
 
 Health support
 
-References:
+## References:
 
 React Official Docs – https://react.dev/
 
